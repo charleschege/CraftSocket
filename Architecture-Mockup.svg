@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1031.2544"
+   height="788.75354"
+   viewBox="0 0 272.85272 208.69105"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (1.0.1+r74)"
+   sodipodi:docname="inkscape-template-FULL-HD.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="147.59322"
+       y="37.89447"
+       width="107.08932"
+       height="11.987854"
+       id="rect836" />
+    <rect
+       x="147.59322"
+       y="37.89447"
+       width="107.08932"
+       height="11.987854"
+       id="rect848" />
+    <rect
+       x="147.59322"
+       y="37.89447"
+       width="107.08932"
+       height="11.987854"
+       id="rect856" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.29943399"
+     inkscape:cx="-42.807446"
+     inkscape:cy="432.05245"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-118.90088,-11.24999)">
+    <g
+       id="g1018"
+       inkscape:export-xdpi="74.472412"
+       inkscape:export-ydpi="74.472412">
+      <rect
+         style="fill:#ffffff;stroke-width:0.31981;stroke-linecap:round"
+         id="rect830"
+         width="272.85272"
+         height="208.69104"
+         x="118.90088"
+         y="11.24999" />
+      <g
+         id="g985"
+         transform="translate(-11.236359,5.6722794)">
+        <rect
+           style="fill:#800080;stroke-width:0.692136;stroke-linecap:round"
+           id="rect840"
+           width="240.73041"
+           height="19.293276"
+           x="146.19839"
+           y="29.554682" />
+        <text
+           xml:space="preserve"
+           id="text834"
+           style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect836)"
+           transform="translate(65.392831,-3.8484545)"
+           x="36.768829"
+           y="0"><tspan
+             x="164.33579"
+             y="45.38555"><tspan
+               style="text-align:center;text-anchor:middle;fill:#ffffff">Application Layer</tspan></tspan></text>
+        <rect
+           style="fill:#008080;stroke-width:1.74154;stroke-linecap:round"
+           id="rect842"
+           width="240.73041"
+           height="122.15054"
+           x="146.19839"
+           y="48.847958" />
+        <text
+           xml:space="preserve"
+           id="text846"
+           style="font-size:9.87778px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect848)"
+           transform="translate(65.278797,15.444821)"
+           x="36.768829"
+           y="0"><tspan
+             x="167.82189"
+             y="46.634051"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff">WarpSocket </tspan></tspan><tspan
+             style="visibility:hidden"
+             x="147.59375"
+             y="58.622333"><tspan
+               dx="0 7.2395253 4.871366 6.78615 4.7218494 6.78615 5.8552856 6.7861519"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff">Protocol</tspan></tspan></text>
+        <rect
+           style="fill:#800080;stroke-width:0.692136;stroke-linecap:round"
+           id="rect850"
+           width="240.73041"
+           height="19.293276"
+           x="146.19839"
+           y="170.9985" />
+        <text
+           xml:space="preserve"
+           id="text854"
+           style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect856)"
+           transform="translate(65.454842,137.59537)"
+           x="36.768829"
+           y="0"><tspan
+             x="173.82152"
+             y="45.38555"><tspan
+               style="text-align:center;text-anchor:middle;fill:#ffffff">UDP Protocol</tspan></tspan></text>
+        <rect
+           style="fill:#ffffff;stroke-width:0.573899;stroke-linecap:round"
+           id="rect832"
+           width="223.54816"
+           height="14.284185"
+           x="154.78952"
+           y="70.764153" />
+        <text
+           xml:space="preserve"
+           style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+           x="161.40695"
+           y="80.24202"
+           id="text860"><tspan
+             sodipodi:role="line"
+             id="tspan858"
+             x="161.40695"
+             y="80.24202"
+             style="stroke-width:0.264583">CUBIC Congestion Control</tspan></text>
+        <g
+           id="g943">
+          <rect
+             style="fill:#ffffff;stroke-width:1.05866;stroke-linecap:round"
+             id="rect867"
+             width="223.54816"
+             height="48.607094"
+             x="154.78952"
+             y="85.04834" />
+          <text
+             xml:space="preserve"
+             style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             x="161.58995"
+             y="94.526207"
+             id="text871"><tspan
+               sodipodi:role="line"
+               id="tspan869"
+               x="161.58995"
+               y="94.526207"
+               style="stroke-width:0.264583">NOISE PROTOCOL - <tspan
+   style="font-size:4.93889px"
+   id="tspan897">NOISE_XX_XCHACHA20POLY1305_25519_BLAKE3</tspan></tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             x="166.88155"
+             y="104.10495"
+             id="text880"><tspan
+               sodipodi:role="line"
+               id="tspan878"
+               x="166.88155"
+               y="104.10495"
+               style="stroke-width:0.264583">- Ed25519 Signature</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             x="166.88155"
+             y="112.04243"
+             id="text884"><tspan
+               sodipodi:role="line"
+               id="tspan882"
+               x="166.88155"
+               y="112.04243"
+               style="stroke-width:0.264583">- ChaCha20Poly1305</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             x="166.88155"
+             y="121.03825"
+             id="text888"><tspan
+               sodipodi:role="line"
+               id="tspan886"
+               x="166.88155"
+               y="121.03825"
+               style="stroke-width:0.264583">- Blake3 Hashing</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             x="166.88155"
+             y="128.97568"
+             id="text892"><tspan
+               sodipodi:role="line"
+               id="tspan890"
+               x="166.88155"
+               y="128.97568"
+               style="stroke-width:0.264583">-  x25519 Diffie-Hellman Ephemeral</tspan></text>
+        </g>
+        <g
+           id="g954">
+          <rect
+             style="fill:#ffffff;stroke-width:0.573899;stroke-linecap:round"
+             id="rect945"
+             width="223.54816"
+             height="14.284185"
+             x="154.78952"
+             y="133.65543" />
+          <text
+             xml:space="preserve"
+             style="font-size:8.46667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+             x="161.40695"
+             y="143.1333"
+             id="text949"><tspan
+               sodipodi:role="line"
+               id="tspan947"
+               x="161.40695"
+               y="143.1333"
+               style="stroke-width:0.264583">Forward Error Correction</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
