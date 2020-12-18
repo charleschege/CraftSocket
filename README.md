@@ -9,3 +9,6 @@ A lightweight protocol for applications that do not need heavy protocols like HT
 
 ---------------
 
+### Architecture
+
+![Architecture.md](https://github.com/charleschege/WarpSocket/raw/main/Architecture.png)
